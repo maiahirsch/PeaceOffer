@@ -7,15 +7,15 @@ This is an interactive wearable that represents a powerful message: peace can on
 https://github.com/user-attachments/assets/f91aefb9-604c-49ab-8183-9729964a977c
 
 
-
+---
 ## 💡 Concept and Inspiration
 Growing up in Venezuela, I witnessed protests where individuals offered white flowers to the Guardia Nacional (military) as a symbol of peace and hope. These gestures were often rejected, reflecting a stark reality: peace requires mutual effort. This dress transforms that poignant symbol into an interactive statement, inviting viewers to reflect on the importance of reciprocity in achieving harmony.
-
+---
 ## 🎨 Features and Design
 - **Interactive Blooming Mechanism:** Flowers on the dress bloom when touched, lowering a barries between two peoples.
 - **Delicate Aesthetic:** Petals crafted from organza evoke a light, ethereal quality.
 - **Seamless Integration of Technology and Art:** Using high-torque motors and custom-designed supports, the dress brings organic movement to life while maintaining its elegance.
-
+---
 ## 📷 Visual Highlights
 ### 🖼️ Photoshoot
 
@@ -29,7 +29,7 @@ Growing up in Venezuela, I witnessed protests where individuals offered white fl
 ### 🎥 Video 
 https://github.com/user-attachments/assets/d3010212-664b-488f-b943-07f16909dd54
 
-
+---
 ## 🛠️ Technical Overview
 - **Electronics:**
 Controlled by an Arduino Nano, paired with MG 996R high-torque motors for precise flower movement.
@@ -39,16 +39,47 @@ Lightweight 3D-printed supports ensure stability while maintaining a sleek, wear
 Petals: Organza for fluid and realistic blooming effects.
 - **Framework:** Custom mounts designed for secure integration of motors and dress fabric.
 
+---
+
+## 🛠️ Hardware Setup  
+
+### Components  
+- **Arduino Nano**  
+- **16-pin Servo Driver**  
+- **4 High-Torque Motors**  
+- **Capacitive Touch Sensor**
+
+### Wiring Overview  
+
+#### Arduino Nano  
+- **5V Pin**: Red  
+- **GND**: Black  
+
+#### Servo Driver  
+- **GND**: Black  
+- **VCC**: Red  
+- **SCL (Yellow)**: A5  
+- **SDA (Green)**: A4  
+- **Power (Green Box)**: Black and Red  
+
+#### Motors  
+- **Motor 1**: Driver Channel 1  
+- **Motor 2**: Driver Channel 2  
+- **Motor 3**: Driver Channel 3  
+- **Motor 4**: Driver Channel 4  
+
+---
+
 ## 🌟 Highlights
 - Award Winner:
 Funded by the Backslash Award at Cornell Tech for its creative and technical excellence.
 - Cultural Impact:
 A blend of art, engineering, and social commentary, symbolizing the intersection of creativity and purpose.
-
+===
 ## 🎯 Why This Project Matters
 The Peace Offer dress exemplifies my mission to integrate engineering with art while addressing cultural and social narratives. It demonstrates how technology can evoke emotional responses, turning a wearable into a platform for reflection and dialogue.
-
+===
 ## 🤝Connect
 For more details or further inquiries, visit:
-🌐 My Portfolio
-📸 Instagram
+- **Portfolio**: [maia-hirsch.com](https://www.maia-hirsch.com)  
+- **Instagram**: [@hightechcouture](https://instagram.com/hightechcouture) 
