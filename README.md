@@ -91,4 +91,14 @@ The Peace Offer dress exemplifies my mission to integrate engineering with art w
 ## 🤝Connect
 For more details or further inquiries, visit:
 - **Portfolio**: [maia-hirsch.com](https://www.maia-hirsch.com)  
-- **Instagram**: [@hightechcouture](https://instagram.com/hightechcouture) 
+- **Instagram**: [@hightechcouture](https://instagram.com/hightechcouture)
+
+
+## 📝 Credits
+Maia Hirsch: Designer, Software & Hardware
+Aliza Feffer: Model
+Juan Pelaez: Model & Lights
+Jonathan Wayne: Cinematography
+Aaron Goldgewert: Photography
+Karen Shamir: Hair and Makeup
+Maya Pierce: Hair and Makeup
