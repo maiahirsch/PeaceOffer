@@ -76,6 +76,7 @@ Petals: Organza for fluid and realistic blooming effects.
 
 ---
 
+
 ## 🌟 Highlights
 - Award Winner:
 Funded by the Backslash Award at Cornell Tech for its creative and technical excellence.
@@ -84,10 +85,12 @@ A blend of art, engineering, and social commentary, symbolizing the intersection
 
 ===
 
+
 ## 🎯 Why This Project Matters
 The Peace Offer dress exemplifies my mission to integrate engineering with art while addressing cultural and social narratives. It demonstrates how technology can evoke emotional responses, turning a wearable into a platform for reflection and dialogue.
 
 ===
+
 
 ## 🤝Connect
 For more details or further inquiries, visit:
