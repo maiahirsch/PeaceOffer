@@ -1,43 +1,55 @@
-# peaceoffer
-This dress is a white flower that blooms when the wearer's hand is grabbed. 
 
-Hardware wiring: 
-
-Components:
-Arduino nano - 16 pin servo driver - 4 high torque motors - capacitive touch sensor
-
-Pin connections: 
-
-Arduino NANO:
-
-5V pin - red
-GND - black 
-
-Driver:
-GND - black 
-VCC - red 
-SCL - yellow - A5
-SDA - green - A4
-Power (green box): black and red 
-
-Touch sesor: 
-
-Motor 1: driver channel 1
-
-Motor 2: driver channel 2
-
-Motor 3: driver channel 3
-
-Motor 4: driver channel 4
-
-![image](https://github.com/user-attachments/assets/fd6d9647-fc17-491d-9a4a-d59ab2b8e5d4)
-
-
-![image](https://github.com/user-attachments/assets/48aa789f-f416-46c2-85c3-a5f239adb91f)
-
-![image](https://github.com/user-attachments/assets/ad6b756f-9ec6-4235-9e88-a32dc1573dce)
-
-![image](https://github.com/user-attachments/assets/3bf618be-3e5c-4b39-aec2-d67c1a5f1467)
+# 🌸 Peace Offer — A Symbol of Mutual Peace and Understanding
+This is an interactive wearable that represents a powerful message: peace can only be achieved if it is two sided.
 
 
 
+https://github.com/user-attachments/assets/f91aefb9-604c-49ab-8183-9729964a977c
+
+
+
+## 💡 Concept and Inspiration
+Growing up in Venezuela, I witnessed protests where individuals offered white flowers to the Guardia Nacional (military) as a symbol of peace and hope. These gestures were often rejected, reflecting a stark reality: peace requires mutual effort. This dress transforms that poignant symbol into an interactive statement, inviting viewers to reflect on the importance of reciprocity in achieving harmony.
+
+## 🎨 Features and Design
+- ** Interactive Blooming Mechanism: **
+- Flowers on the dress bloom when touched, lowering a barries between two peoples.
+Delicate Aesthetic:
+Petals crafted from organza evoke a light, ethereal quality.
+Seamless Integration of Technology and Art:
+Using high-torque motors and custom-designed supports, the dress brings organic movement to life while maintaining its elegance.
+📷 Visual Highlights
+
+![Dress Pics (compressed)-6](https://github.com/user-attachments/assets/94fa9cc6-01bd-46bf-b1e3-521daab5b9fb)
+![Dress Pics (compressed)-7](https://github.com/user-attachments/assets/6c2a7d00-b82e-4076-8919-bd784ef403b0)
+![Dress Pics (compressed)-11 2](https://github.com/user-attachments/assets/49063c3f-33d7-4f07-8d98-5e7ced63651f)
+![Dress Pics (compressed)-14 2](https://github.com/user-attachments/assets/441d5452-c6e0-4ab4-bc1f-76e1416aeaf4)
+
+
+Detailed view of the blooming flowers.
+![Dress Pics (compressed)-18 2](https://github.com/user-attachments/assets/2eeb04ea-4ae8-4d3d-a0dd-0819573f9cd7)
+![Dress Pics (compressed)-21](https://github.com/user-attachments/assets/80b4e5b0-1597-4b06-866b-f7699912f66b)
+
+
+https://github.com/user-attachments/assets/d3010212-664b-488f-b943-07f16909dd54
+
+
+🛠️ Technical Overview
+Electronics:
+Controlled by an Arduino Nano, paired with MG 996R high-torque motors for precise flower movement.
+Structural Design:
+Lightweight 3D-printed supports ensure stability while maintaining a sleek, wearable form.
+Materials:
+Petals: Organza for fluid and realistic blooming effects.
+Framework: Custom mounts designed for secure integration of motors and dress fabric.
+Award Winner:
+Funded by the Backslash Award at Cornell Tech for its creative and technical excellence.
+Cultural Impact:
+A blend of art, engineering, and social commentary, symbolizing the intersection of creativity and purpose.
+🎯 Why This Project Matters
+The Peace Offer dress exemplifies my mission to integrate engineering with art while addressing cultural and social narratives. It demonstrates how technology can evoke emotional responses, turning a wearable into a platform for reflection and dialogue.
+
+Connect
+For more details or further inquiries, visit:
+🌐 My Portfolio
+📸 Instagram
