@@ -8,14 +8,19 @@ https://github.com/user-attachments/assets/f91aefb9-604c-49ab-8183-9729964a977c
 
 
 ---
+
 ## 💡 Concept and Inspiration
 Growing up in Venezuela, I witnessed protests where individuals offered white flowers to the Guardia Nacional (military) as a symbol of peace and hope. These gestures were often rejected, reflecting a stark reality: peace requires mutual effort. This dress transforms that poignant symbol into an interactive statement, inviting viewers to reflect on the importance of reciprocity in achieving harmony.
+
 ---
+
 ## 🎨 Features and Design
 - **Interactive Blooming Mechanism:** Flowers on the dress bloom when touched, lowering a barries between two peoples.
 - **Delicate Aesthetic:** Petals crafted from organza evoke a light, ethereal quality.
 - **Seamless Integration of Technology and Art:** Using high-torque motors and custom-designed supports, the dress brings organic movement to life while maintaining its elegance.
+  
 ---
+
 ## 📷 Visual Highlights
 ### 🖼️ Photoshoot
 
@@ -30,6 +35,7 @@ Growing up in Venezuela, I witnessed protests where individuals offered white fl
 https://github.com/user-attachments/assets/d3010212-664b-488f-b943-07f16909dd54
 
 ---
+
 ## 🛠️ Technical Overview
 - **Electronics:**
 Controlled by an Arduino Nano, paired with MG 996R high-torque motors for precise flower movement.
@@ -76,8 +82,10 @@ Funded by the Backslash Award at Cornell Tech for its creative and technical exc
 - Cultural Impact:
 A blend of art, engineering, and social commentary, symbolizing the intersection of creativity and purpose.
 ===
+
 ## 🎯 Why This Project Matters
 The Peace Offer dress exemplifies my mission to integrate engineering with art while addressing cultural and social narratives. It demonstrates how technology can evoke emotional responses, turning a wearable into a platform for reflection and dialogue.
+
 ===
 ## 🤝Connect
 For more details or further inquiries, visit:
